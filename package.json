@@ -1,6 +1,6 @@
 {
   "name": "egg-substrate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "substrate rpc client for egg framework",
   "eggPlugin": {
     "name": "substrate"
@@ -47,12 +47,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-substrate.git"
+    "url": "git+https://github.com/BenDaye/egg-substrate.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/BenDaye/egg-substrate/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-substrate#readme",
+  "homepage": "https://github.com/BenDaye/egg-substrate#readme",
   "author": "BenDaye(yypsgdsg@163.com)",
   "license": "MIT"
 }
